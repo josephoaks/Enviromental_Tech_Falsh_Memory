@@ -1,4 +1,4 @@
-[Crystal Miner]()
+[Crystal Miner](Multi_Miners/Crystal_Miner.md)
 
 [Ore Miner]()
 
