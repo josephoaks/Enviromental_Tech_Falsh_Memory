@@ -10,5 +10,15 @@
   1. Sapphire Ore
   
 ### Overwold
-
+  Fluorite Ore
+  Sapphire Ore
+  Ruby Ore
+  Apatite Ore
+  Lapis Lazuli Ore
+  Diamond Ore
+  Emerald Ore
+  Certus Quartz
+  Charged Certus Quartz
+  Dimensional Shard Ore
+  
 ### The End
