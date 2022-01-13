@@ -10,10 +10,10 @@
   1. Gilded Blackstone
 
 ## Overworld
-  Terracotta (all colors)
-  Sandstones
-  Cobblestones
-  Stone Varirants (Granite, Andesite, Diortite)
-  Bone Block
+  1. Terracotta (all colors)
+  1. Sandstones
+  1. Cobblestones
+  1. Stone Varirants (Granite, Andesite, Diortite)
+  1. Bone Block
   
 ## The End
