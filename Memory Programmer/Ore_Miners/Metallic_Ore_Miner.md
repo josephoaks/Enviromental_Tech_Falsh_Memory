@@ -1,10 +1,10 @@
 - Nether
-    Nether Gold Ore
-    Gold Ore
-    Cobalt Ore
-    Tin Ore
-    Ancient Debris
-    Uraninite Ore
+    1. Nether Gold Ore
+    1. Gold Ore
+    1. Cobalt Ore
+    1. Tin Ore
+    1. Ancient Debris
+    1. Uraninite Ore
 
 - Overworld
 
