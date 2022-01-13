@@ -3,7 +3,7 @@
 This is the block used to program the Flash Memory to different resources
 
 ## Ore Miners
-[Ore Miners](Ore Miners.md)
+[Ore Miners](Ore_Miners.md)
 
 ## Botanic Miners
 
