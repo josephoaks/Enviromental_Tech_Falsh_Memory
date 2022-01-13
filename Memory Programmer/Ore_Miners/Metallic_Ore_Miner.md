@@ -7,5 +7,15 @@
   1. Uraninite Ore
 
 ### Overworld
-
+  Bauxite Ore
+  Copper Ore
+  Osmium Ore
+  Iron Ore
+  Tin Ore
+  Lead Ore
+  Nickle Ore
+  Gold Ore
+  Zinc Ore
+  Uraninite Ore(s)
+  
 ### The End
